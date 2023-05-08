@@ -46,6 +46,15 @@ The `from_check_point`, `model_dir`, and `tokenizer_dir` arguments can be used t
 
 Please use the bibtex below for citing our paper:
 
-```
-TO BE UPDATED
+```bibtex
+@inproceedings{KnowCompNLI4CT,
+  author       = {Weiqi Wang and
+                  Baixuan Xu and
+                  Tianqing Fang and
+                  Lirong Zhang and
+                  Yangqiu Song},
+  title        = {KnowComp at SemEval-2023 Task 7: Finetuning Pre-Trained Language Models for Clinical Trial Entailment Identification},
+  year         = {2023},
+  booktitle    = {Proceedings of the 17th International Workshop on Semantic Evaluation, {SemEval} 2023}
+}
 ```
