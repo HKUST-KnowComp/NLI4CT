@@ -1,7 +1,7 @@
 # KnowComp at SemEval2023 Task7 (NLI4CT)
 
 This is the official code repository for the [SemEval2023](https://semeval.github.io/SemEval2023/) paper: KnowComp at
-SemEval-2023 Task 7: Finetuning Pretrained Language Models for Clinical Trial Entailment Identification.
+SemEval-2023 Task 7: Fine-tuning Pretrained Language Models for Clinical Trial Entailment Identification.
 Our system officially ranks No.5th on the leaderboard and achieves an F1 score of 0.764.
 
 ![Overview](demo/overview.jpg)
@@ -53,7 +53,7 @@ Please use the bibtex below for citing our paper:
                   Tianqing Fang and
                   Lirong Zhang and
                   Yangqiu Song},
-  title        = {KnowComp at SemEval-2023 Task 7: Finetuning Pre-Trained Language Models for Clinical Trial Entailment Identification},
+  title        = {KnowComp at SemEval-2023 Task 7: Fine-tuning Pre-Trained Language Models for Clinical Trial Entailment Identification},
   year         = {2023},
   booktitle    = {Proceedings of the 17th International Workshop on Semantic Evaluation, {SemEval} 2023}
 }
